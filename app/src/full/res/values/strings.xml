@@ -1,0 +1,5 @@
+<resources>
+    <string name="welcome_text"><![CDATA[
+    	 <font face = \'Sans-Serif\'>This is a <b>Full</> version of this Application.</font>
+  		]]></string>
+</resources>
